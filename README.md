@@ -2,7 +2,7 @@
 
 [LINKS](https://link.ruz.fyi) | Computers are really interesting. Good thing I like them.
 
-## You may me doing one of the following
+## You may catch me doing one of the following
 - Writing a CLI tool in C (or learning how to)
 - Making little webapps for fun
 - Reconfiguring my Linux machines
