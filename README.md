@@ -1,3 +1,5 @@
+*Confused and distracted*
+
 ### Student SWE with a lot of obsessions👋
 
 [LINKS](https://link.ruz.fyi) | Computers are really interesting. Good thing I like them.
