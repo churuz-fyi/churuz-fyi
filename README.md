@@ -6,37 +6,13 @@
 
 ## You may catch me doing one of the following
 - Writing a CLI tool in C (or learning how to)
-- Making little webapps for fun
-- Reconfiguring my Linux machines
+- Making little webapps for fun 🕸️
+- Reconfiguring my Linux machines 🐧
 - Clearning the gunpla backlog 😐
-- Making a game on Godot
+- Making a game on Godot 🎮
 - Reading something really nerdy 🤓
+- Terminal Emulator of Choice: [kitty](https://sw.kovidgoyal.net/kitty/) 🐈‍⬛
 
-## Laptop
-- Framework Laptop 13
-- CPU: AMD Rryzen 7840U
-- RAM: 32 GB
-- OS: Fedora Linux
-- WM: Niri + DankMaterialShell
-
-## Desktop
-- CPU: AMD Ryzen 5700X
-- GPU: AMD Radeon 9070XT 20 GB
-- RAM: 32 GB DDR4
-- Storage: Plenty
-- Games: All
-- OS: Bazzite Linux (main) || Windows 11 (dual boot *when working*)
-- DE: KDE Plasma
-
-## Server
-- Dell Optiplex (old)
-- CPU: Intel Core i7 3770 (i think)
-- GPU: Please
-- RAM: 32 GB DDR3
-- Storage: Not enough
-- OS: Fedora Server (why? i like Fedora LOL)
-- DE: None (on a server? just ssh)
-- Services:
-  - Minecraft
-  - File-share (WIP)
-  - Blog (WIP)
+| Laptop | Desktop | Server |
+|------------------|-----------------------------|---------------------------------|
+| - Framework Laptop 13 <br> - CPU: AMD Ryzen 7840U <br> - RAM: 32 GB <br> - OS: Fedora Linux <br> - WM: Niri + DankMaterialShell | - CPU: AMD Ryzen 5700X <br> - GPU: AMD Radeon 9070XT 20 GB <br> - RAM: 32 GB DDR4 <br> - Storage: Plenty <br> - Games: All <br> - OS: Bazzite Linux (main) + Windows 11 <br> - DE: KDE Plasma | - Dell Optiplex (old) <br> - CPU: Intel Core i7 3770 (i think) <br> - GPU: Please <br> - RAM: 32 GB DDR3 <br> - Storage: Not enough <br> - OS: Fedora Server (why? I like Fedora LOL) <br> - DE: None (on a server? just ssh) <br> - Services: Minecraft, File-share (wip), Blog (wip) |
