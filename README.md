@@ -18,6 +18,10 @@
 | - Framework Laptop 13 <br> - CPU: AMD Ryzen 7840U <br> - RAM: 32 GB <br> - OS: Fedora Linux <br> - WM: KDE Plasma | - CPU: AMD Ryzen 5700X <br> - GPU: AMD Radeon 9070XT 20 GB <br> - RAM: 32 GB DDR4 <br> - Storage: Plenty <br> - Games: All <br> - OS: Bazzite Linux (main) + Windows 11 <br> - DE: KDE Plasma | - Dell Optiplex (old) <br> - CPU: Intel Core i7 3770 (i think) <br> - GPU: Please <br> - RAM: 32 GB DDR3 <br> - Storage: Not enough <br> - OS: Fedora Server (why? I like Fedora LOL) <br> - DE: None (on a server? just ssh) <br> - Services: Minecraft, File-share (wip), Blog (wip) |
 
 ## Wishlist
-- A lot Pis and STMs
+- A lot Pis and ST MCUs
 - 8 hours of battery on my laptop
 - Time
+
+## Backlog
+- Digital Audio Player RTOS
+- Modular/Customizable Keyboard Firmware
